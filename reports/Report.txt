@@ -1,0 +1,26 @@
+
+Dataset used : Used the data set from time series analysis Which has number of orders as feature based on Ware house,Product Code…
+
+Feature engineering:
+
+1)From the given data set extracted information about how many orders are given per year
+2)How many orders are from a particular warehouse
+3)How many orders are for a particular Product
+
+From the extracted information we can deduce the product with highest orders,Most popular Ware house,Which year has the highest number of sales
+
+Visualizations:
+
+The three visualisations used are 
+
+1)sons plots
+2)Jypyter notebook(cufflinks & Plotly)
+3)Matplot lib
+
+Interactive Vizualizations:
+
+Interactive visualisations are generated using plotly and cufflinks (visualisations.ipynb)
+
+Plots:
+
+Used histograms,Scatter plots,Surface plots,Correlation matrix….
